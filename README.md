@@ -1,9 +1,9 @@
 # wolfgame
-Requires ant to build
+Requires [ant](http://ant.apache.org/) to build
 
-ant run
+    ant run
 
-or 
+or to build a jar
 
-ant jar
-to build a jar
+    ant jar
+
